@@ -1,0 +1,1 @@
+{"jobID":"de8f9b9c-7b93-5425-7e88-ca92e3e80fed","spec":{"type":"policy","cause":{"Message":"","User":"jakub.ciolek@leovegas.com"},"spec":{"demo:helmrelease/redistwo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
