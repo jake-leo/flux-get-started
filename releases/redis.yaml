@@ -18,7 +18,7 @@ spec:
     version: 10.3.1
   valueFileSecrets:
     # the redis-auth secret contains the password value
-    - name: redis-auth
+  - name: redis-auth
   values:
     usePassword: true
     image:
