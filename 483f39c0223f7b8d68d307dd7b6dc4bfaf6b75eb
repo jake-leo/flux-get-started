@@ -1,0 +1,1 @@
+{"jobID":"e385dc45-2707-caed-2338-3f5252fa634a","spec":{"type":"policy","cause":{"Message":"","User":"jakub.ciolek@leovegas.com"},"spec":{"demo:helmrelease/mongodb":{"add":{"automated":"true"},"remove":{}}}},"result":null}
