@@ -1,0 +1,1 @@
+{"jobID":"12874622-1758-202b-4d94-73d657e10c83","spec":{"type":"policy","cause":{"Message":"","User":"jakub.ciolek@leovegas.com"},"spec":{"demo:helmrelease/ghost":{"add":{"automated":"true"},"remove":{}}}},"result":null}
